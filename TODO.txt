@@ -1,0 +1,25 @@
+30/11/22 - 21:27:
+Have three separate projects within the solution.
+	1. mathematic side
+	2. interface side
+	3. testing side
+
+- projects should reference eachother
+
+Need to come up with suitable name for program
+
+CODING STRUCTURE:
+- create header file which defines functions & classes
+	* should use comments to give information for each function
+	* has corresponding cpp file which gives 'body' to definitions
+
+
+TESTING:
+- create classes and structures for separate parts of the program; don't be afraid to clog things up!
+
+tutorial:
+https://www.youtube.com/watch?v=16FI1-d2P4E&ab_channel=JetBrainsTV
+
+22:07:
+ensure criteria is met at:
+https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/subject-content-a-level/non-exam-assessment-the-computing-practical-project
